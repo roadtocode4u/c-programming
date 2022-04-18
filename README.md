@@ -5,3 +5,4 @@
 ## 👉 [Lecture-3 Rules to Declare Variables and Formatting Output ](/lecture-3/lecture-3.md)
 ## 👉 [Lecture-4 Operators and Comments in C Programming](/lecture-4/lecture-4.md)
 ## 👉 [ Lecture-5 ncrement, Decrement Operator and Scanf Functions ](/lecture-5/lecture-5.md)
+## 👉 [ Lecture-6 Practice Questions  ](/lecture-6/lecture-6.md)
