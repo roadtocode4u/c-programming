@@ -6,3 +6,4 @@
 ## 👉 [Lecture-4 Operators and Comments in C Programming](/lecture-4/lecture-4.md)
 ## 👉 [ Lecture-5 ncrement, Decrement Operator and Scanf Functions ](/lecture-5/lecture-5.md)
 ## 👉 [ Lecture-6 Practice Questions  ](/lecture-6/lecture-6.md)
+## 👉 [ Lecture-7  Assignment, Comparison, Ternary Operator in C Programming  ](/lecture-7/lecture-7.md)
