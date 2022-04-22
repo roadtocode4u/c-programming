@@ -1,4 +1,4 @@
-# Lecture-6  Assignment Operators, Comparison Operators and  Ternary Operator in C Programming 
+# Lecture-7  Assignment Operators, Comparison Operators and  Ternary Operator in C Programming 
 
 ## Assignment operators
 
