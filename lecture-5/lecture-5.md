@@ -189,7 +189,7 @@ int main() {
 >1    
 1
 
-## Decrement Operator (++)
+## Decrement Operator (--)
 
 This Operator are used to decrease the value of variable.
 

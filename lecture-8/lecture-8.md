@@ -123,6 +123,7 @@ block of code to be executed the condition is false;
 **Flow Chart:**
 
 ![flowchart](if-else-img.jpg)
+
 **💻Example:**
 ```c
 #include <stdio.h>
