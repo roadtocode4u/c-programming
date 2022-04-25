@@ -9,3 +9,5 @@
 ## 👉 [ Lecture-7  Assignment, Comparison, Ternary Operator in C Programming  ](/lecture-7/lecture-7.md)
 ## 👉 [ Lecture-8 Conditional Statements C Programming ](/lecture-8/lecture-8.md)
 ## 👉 [ Lecture-9 Logical Operators C Programming ](/lecture-9/lecture-9.md)
+## 👉 [ Lecture-10 If-Else Ladder in C Programming  ](/lecture-10/lecture-10.md)
+## 👉 [ Lecture-11 Nested-If in C Programming   ](/lecture-11/lecture-11.md)
