@@ -11,3 +11,4 @@
 ## 👉 [ Lecture-9 Logical Operators C Programming ](/lecture-9/lecture-9.md)
 ## 👉 [ Lecture-10 If-Else Ladder in C Programming  ](/lecture-10/lecture-10.md)
 ## 👉 [ Lecture-11 Nested-If in C Programming   ](/lecture-11/lecture-11.md)
+## 👉 [# Lecture-12 Loops in C Programming    ](/lecture-12/lecture-12.md)
