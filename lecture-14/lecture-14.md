@@ -1,25 +1,23 @@
-# Lecture-14 Break,Continue Keyword , While,Do-while loop in C Programming 
-
-## Break  Keyword
-
-Break keyword are used to stop loop permanently.
+# Lecture-14 Example Of Loop in C Programming 
 
 **💻Example:**
 
 ```c
-//Break Keyword 
-
 #include <stdio.h>
 
 int main() {
     
-    for(int i=1;i<=10;i++)
+    int i=1;
+    
+    while(i<=10)
     {
         if(i==5)
         {
-            break;
+            i++;
+            continue;
         }
-        printf("\n%d",i);
+        printf("%d\n",i);
+         i++;
     }
     
     return 0;
@@ -27,31 +25,36 @@ int main() {
 ```
 **⚙️ Output :** 
 >1           
-2         
-3          
-4          
+2       
+3         
+4         
+6           
+7           
+8         
+9      
+10             
 
-## Continue Keyword
-
-continue keyword are used to stop current loop.
 
 **💻Example:**
 
 ```c
-//continue Keyword 
-
 #include <stdio.h>
 
 int main() {
     
-    for(int i=1;i<=10;i++)
+    int i=1;
+    
+    do
     {
-        if(i==5)
-        {
-            continue;
-        }
-        printf("\n%d",i);
+         if(i==5)
+         {
+           break;
+         }
+         printf("\n%d",i);
+         i++;
     }
+    while(i<10);
+    
     
     return 0;
 }
@@ -61,84 +64,28 @@ int main() {
 2        
 3       
 4      
-6     
-7        
-8       
-9      
-10                   
-
-## While Loop
-
-* Entry Controlled
-* Pre-Tested Loop
-* if condition will false it will run zero times 
-
-**Syntax:**
-```c
-while(condion)
-{
-
-}
-```
-
+                   
 **💻Example :**
 
 ```c
-while(condition)
-{
 #include <stdio.h>
 
 int main() {
     
-    int i=0;
-    
-    while(i<5)
-    {
-        printf("\n%d",i);
-        
-        i++;
-    }
-    return 0;
-}
-```
-**⚙️ Output :** 
-0       
-1       
-2       
-3    
-4  
-
-## Do-While Loop
-
-* Exit Controlled
-* Post-Tested Loop 
-* if condition will false it will run ones
-
-**Syntax:**
-```c
-do
-{
- 
-}
-while(condition);
-```
-
-**💻Example:**
-```c
-#include <stdio.h>
-
-int main() {
-    
-    int i=0;
+    int i=1;
     
     do
     {
-        printf("\n%d",i);
-        
-        i++;
+         if(i==5)
+         {
+             i++;
+           continue;
+         }
+         printf("\n%d",i);
+         i++;
     }
+    while(i<10);
     
-    while(i<5);
     
     return 0;
 }
@@ -148,8 +95,65 @@ int main() {
 1     
 2      
 3    
-4    
+4   
+5    
+6    
+7    
+8   
+9
 
+**💻Example :**
+
+```c
+#include <stdio.h>
+
+int main() {
+    
+    for(int i=1;i<=5;i++)
+    {
+        int roll;
+        printf("\nEnter Roll:");
+        scanf("%d",&roll);
+        printf("\n Your roll is:%d",roll);
+    }
+    return 0;
+}
+```
+**⚙️ Output :** 
+>Enter Roll:1    
+Your roll is:1   
+Enter Roll:2   
+Your roll is:2 
+
+**💻Example :**
+
+```c
+#include <stdio.h>
+
+int main() { 
+    char ch=1;
+    
+    while(ch==1)
+    {
+        printf("\nHello");
+        printf("\n Do you want to Continue (1/0):");
+        scanf("%d",&ch);
+    }
+    return 0;
+}
+```
+**⚙️ Output :** 
+>Hello     
+ Do you want to Continue (1/0):1     
+ Hello                          
+ Do you want to Continue (1/0):1        
+ Hello  
+ Do you want to Continue (1/0):1     
+ Hello        
+ Do you want to Continue (1/0): 
+
+ **Homework 🏠**
+ > Write a C Program to reverse number using while loop 
 
 ## 🔗 Some Useful Links
 

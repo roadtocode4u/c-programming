@@ -14,3 +14,4 @@
 ## 👉 [ Lecture-12 Loops in C Programming    ](/lecture-12/lecture-12.md)
 ## 👉 [ Practice Questions In  Loops in C Programming   ](/lecture-13/lecture-13.md)
 ## 👉 [Break,Continue Keyword , While,Do-while loop in C Programming ](/lecture-14/lecture-14.md)
+## 👉 [Lecture-14 Example Of Loop in C Programming ](/lecture-15/lecture-15.md)
