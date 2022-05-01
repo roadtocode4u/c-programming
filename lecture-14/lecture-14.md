@@ -1,4 +1,4 @@
-# Lecture-14 Example Of Loop in C Programming 
+# Lecture-15 Example Of Loop in C Programming 
 
 **💻Example:**
 
