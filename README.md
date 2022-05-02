@@ -15,3 +15,4 @@
 ## 👉 [ Practice Questions In  Loops in C Programming   ](/lecture-13/lecture-13.md)
 ## 👉 [ Example Of Loop in C Programming  ](/lecture-14/lecture-14.md)
 ## 👉 [Break,Continue Keyword , While,Do-while loop in C Programming ](/lecture-15/lecture-15.md)
+## 👉 [Switch case in C Programming ](/lecture-16/lecture-16.md)
