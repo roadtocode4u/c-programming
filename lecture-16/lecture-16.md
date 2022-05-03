@@ -117,7 +117,7 @@ Vowel<br>
 Enter Alphabate : b<br>
 Consonent
 
-**🏠 Homework **
+**🏠Homework**
 > Write a C program to calculate area of rectangle, square, circle and triangle.
 
 ## 🔗 Some Useful Links
