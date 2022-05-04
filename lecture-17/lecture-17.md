@@ -4,20 +4,20 @@
 
 An array is a variable that can store multiple values.
 
-**Syntax:**
+**Syntax :**
 ```c
 datatype arrayname[size]
 
 ```
 
-**💻Example:**
+**💻Example :**
 
 ```c
 //Array
 
 int marks[5];
 ```
-**💻Example 1:**
+**💻Example 1 :**
 
 ```c
 #include <stdio.h>
@@ -47,7 +47,7 @@ int main() {
 40<br>
 50<br>
 
-**💻Example 2:**
+**💻Example 2 :**
 ```c
 #include <stdio.h>
 
@@ -74,7 +74,7 @@ int main() {
 40<br>
 50<br>
 
-**💻Example 3:**
+**💻Example 3 :**
 ```c
 #include <stdio.h>
 
@@ -106,7 +106,7 @@ Enter marks for 4 :50<br>
 40<br>
 50<br>
 
-**💻Example 4:**
+**💻Example 4 :**
 ```c
 #include <stdio.h>
 
