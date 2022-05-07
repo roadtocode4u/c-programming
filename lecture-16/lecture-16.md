@@ -116,6 +116,7 @@ int main(){
 Vowel<br>
 Enter Alphabate : b<br>
 Consonent
+
 **🏠Homework**
 > Write a C program to calculate area of rectangle, square, circle and triangle.
 
