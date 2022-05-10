@@ -17,3 +17,4 @@
 ## 👉 [ Lecture-15 Break,Continue Keyword , While,Do-while loop in C Programming ](/lecture-15/lecture-15.md)
 ## 👉 [Lecture-16 Switch case in C Programming ](/lecture-16/lecture-16.md)
 ## 👉 [Lecture-17 Array in C Programming ](/lecture-17/lecture-17.md)
+## 👉 [Lecture-18 Linear Search, Sum of Array Elements and Largest Element from the Array in C Programming  ](/lecture-16/lecture-16.md)
