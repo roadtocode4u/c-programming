@@ -115,7 +115,7 @@ Square is 49
 
 <br>
 
-### WAP to calculate area of rectangle.<br>
+### WAP to calculate area of rectangle using function.<br>
 **💻Example 4 :**
 ```c
 #include <stdio.h>
