@@ -19,3 +19,4 @@
 ## 👉 [Lecture-17 Array in C Programming ](/lecture-17/lecture-17.md)
 ## 👉 [Lecture-18 Linear Search, Sum of Array Elements and Largest Element from the Array in C Programming  ](/lecture-18/lecture-18.md)
 ## 👉 [Lecture-21 ASCII in C Programming  ](/lecture-21a/lecture-21a.md)
+## 👉 [Lecture-22 Functions in C Programming   ](/lecture-22/lecture-22.md)
