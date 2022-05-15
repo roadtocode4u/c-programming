@@ -1,6 +1,8 @@
-# Lecture-19 Reverse an Array and Strings in C Programming 
+# Lecture-20 Strings and Operations on String C Programming 
 
-## Array
+## String
+
+A String in C is nothing but a collection of characters in a linear sequence. <br>*or*<br> Array of characters.<br><br>
 
 **💻Example 1 :**
 
@@ -44,10 +46,6 @@ int main() {
 >Hello rtc
 
 <br>
-
-## String
-
-A String in C is nothing but a collection of characters in a linear sequence. <br>*or*<br> Array of characters.<br><br>
 
 **💻Example 3 :**
 ```c
