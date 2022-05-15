@@ -1,5 +1,4 @@
-# Reverse an Array and Strings in C Programming 
-
+# Lecture-19 Reverse an Array and Strings in C Programming 
 ## Array
 
 Q1. Print an array in reverse format.
