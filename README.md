@@ -18,6 +18,8 @@
 ## 👉 [Lecture-16 Switch case in C Programming ](/lecture-16/lecture-16.md)
 ## 👉 [Lecture-17 Array in C Programming ](/lecture-17/lecture-17.md)
 ## 👉 [Lecture-18 Linear Search, Sum of Array Elements and Largest Element from the Array in C Programming  ](/lecture-18/lecture-18.md)
+## 👉 [Lecture-19 Reverse an Array and Strings in C Programming  ](/lecture-19/lecture-19.md)
+## 👉 [Lecture-20 Strings and Operations on String C Programming ](/lecture-20/lecture-20.md)
 ## 👉 [Lecture-21 ASCII in C Programming  ](/lecture-21a/lecture-21a.md)
 ## 👉 [Lecture-22 Functions in C Programming   ](/lecture-22/lecture-22.md)
 ## 👉 [Lecture-23 Types of Functions Based on Arguments and Returntype in C Programming ](/lecture-23/lecture-23.md)
