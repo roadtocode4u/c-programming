@@ -1,4 +1,4 @@
-# Inbuilt Math and String Functions in C Programming 
+# Lecture-24 Inbuilt Math and String Functions in C Programming 
 
 ## Inbuilt Functions
 

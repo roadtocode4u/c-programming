@@ -24,3 +24,5 @@
 ## 👉 [Lecture-22 Functions in C Programming   ](/lecture-22/lecture-22.md)
 ## 👉 [Lecture-23 Types of Functions Based on Arguments and Returntype in C Programming ](/lecture-23/lecture-23.md)
 ## 👉 [Lecture-24 Inbuilt Math and String Functions in C Programming ](/lecture-24/lecture-24.md)
+## 👉 [Lecture-25 Pointers in C Programming ](/lecture-25/lecture-25.md)
+## 👉 [Lecture-26 Call by Value and Call By Address Part-1](/lecture-26/lecture-26.md)
