@@ -175,7 +175,7 @@ int main() {
 
 <br>
 
-**💻Example 7 :**
+**💻Example 8 :**
 ```c
 #include <stdio.h>
 
