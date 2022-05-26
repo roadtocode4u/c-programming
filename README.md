@@ -26,3 +26,5 @@
 ## 👉 [Lecture-24 Inbuilt Math and String Functions in C Programming ](/lecture-24/lecture-24.md)
 ## 👉 [Lecture-25 Pointers in C Programming ](/lecture-25/lecture-25.md)
 ## 👉 [Lecture-26 Call by Value and Call By Address Part-1](/lecture-26/lecture-26.md)
+## 👉 [Lecture-27 Binary Search in C Programming ](/lecture-27/lecture-27.md)
+## 👉 [Lecture-28 Structures in C Programming ](/lecture-28/lecture-28.md)
